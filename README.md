@@ -28,6 +28,8 @@ Migas de pan-> En la página de galería
 Nav -> para ver las imágenes en distintos modos, los mas vistos, valorados...
 Tooltip-> Para el nav
 Padding y border-> Para las imagenes de galería
+Paginación-> En el apartado de Galería
+Grupo de Lista-> Para el footer
 
 
 Puede ser que se me haya olvidado explicar alguno, pero en el word que hay dentro he puesto los que tengo hechos.
